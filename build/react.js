@@ -1,3 +1,5 @@
+/* Shit */
+
  /**
   * React v15.1.0
   */
@@ -19396,7 +19398,7 @@ module.exports = performanceNow;
  * of patent rights can be found in the PATENTS file in the same directory.
  *
  * @typechecks
- * 
+ *
  */
 
 /*eslint-disable no-self-compare */
